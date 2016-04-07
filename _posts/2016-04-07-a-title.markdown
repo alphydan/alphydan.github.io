@@ -1,0 +1,8 @@
+---
+published: true
+title: A title
+layout: post
+---
+# hello peter
+
+> This is a quote
